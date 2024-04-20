@@ -6,7 +6,7 @@
     <title>Exercícios</title>
 </head>
 <body>
-    <form action="exerc3resposta.php" method="post">
+    <form action="exer3resposta.php" method="post">
         <?php
             for ($i=0; $i<10; $i++){
                 echo '<input type="number" name="numeros[]" placeholder="Insira um número: '.$i.'">';

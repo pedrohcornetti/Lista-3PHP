@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <form action="exerc4resposta.php" method="post">
+    <form action="exer4resposta.php" method="post">
         <input type="number" name="numero" placeholder="Digite um número entre 1 e 12">
         <button type="submit">Enviar</button>
     </form>

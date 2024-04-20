@@ -6,7 +6,7 @@
     <title>Exercícios</title>
 </head>
 <body>
-  <form action="exerc7resposta.php" method="post">
+  <form action="exer7resposta.php" method="post">
     <?php
       for ($i = 1; $i <= 10; $i++) {
         echo '<input type="text" name="alunos['.$i.'][nome]" placeholder="Nome do Aluno">';
